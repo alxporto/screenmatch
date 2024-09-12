@@ -5,7 +5,7 @@
 
 This project is built using **Java, Spring Boot and the Jackson library.**
 
-This project is an application that searches for data on the OMDB API and returns information about the series.
+This project is a command line application that searches for data on the OMDB API and returns information about the series.
 
 ## Table of Contents
 
